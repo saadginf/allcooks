@@ -1,0 +1,10 @@
+{
+  "customer": "Customer",
+  "cooker": "Cooker",
+  "login": "Login",
+  "register": "Register",
+  "email": "Email",
+  "mdp": "Password",
+  "mdpo": "Forget Password",
+  "sign-in": "Sign-in"
+}

@@ -1,0 +1,10 @@
+{
+  "customer": "Client",
+  "cooker": "Cuisinier",
+  "login": "Se connecter",
+  "register": "S'enregitrer",
+  "email": "Email",
+  "mdp": "Mot de Passe",
+  "mdpo": "Mot de Passe Oublié",
+  "sign-in": "Confirmer"
+}
